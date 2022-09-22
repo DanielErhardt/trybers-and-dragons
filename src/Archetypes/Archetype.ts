@@ -21,7 +21,7 @@ abstract class Archetype {
   abstract get energyType(): EnergyType;
 
   static createdArchetypeInstances(): number {
-    return Archetype._instances;
+    return this._instances;
   }
 }
 
