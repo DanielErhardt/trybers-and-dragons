@@ -14,6 +14,10 @@ class Halfling extends Race {
   get maxLifePoints(): number {
     return this._maxLifePoints;
   }
+
+  static createdRacesInstances() {
+    return Halfling._instances;
+  }
 }
 
 export default Halfling;

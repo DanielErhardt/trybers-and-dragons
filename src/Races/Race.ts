@@ -16,7 +16,7 @@ abstract class Race {
   abstract get maxLifePoints(): number;
 
   static createdRacesInstances() {
-    return this._instances;
+    throw new Error('Not implemented');
   }
 }
 
