@@ -1,16 +1,61 @@
-# 🚧 README em construção 🚧
+<details> 
+<summary>:brazil: Versão em Português</summary>
 
-<!-- Olá, Tryber!
+# Trybers & Dragons
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Trybers & Dragons é um mini jogo que acontece em um mundo fictício, onde existem personsagens de diferentes raças, arquétipos e complexidades.
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Objetivo
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+A criação desse projeto exigiu a utilização de Typescript para colocar em prática conceitos como o paradigma de Programação Orientada a Objetos e os princípios SOLID.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Observações
 
--->
+Todos os arquivos no diretório raiz, com exceção do README.md, foram criados e configurados pela Trybe.
+
+## Conceitos, Ferramentas e Linguagens
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Interfaces
+- Inferência
+- Abstração
+- Princípios SOLID
+- Typescript
+- Docker
+- Commits convencionais
+
+</details>
+
+<details open> 
+<summary>:us: English Version</summary>
+
+# Trybers & Dragons
+
+Trybers & Dragons is a minigame that takes place in a fictitious world, where there are characters of different races, archetypes and complexities.
+
+## Objective
+
+The creation of this project demanded the use of Typescript for practicing concepts like Object Oriented Programming paradigm and the SOLID principles.
+
+## Observations
+
+Todos os arquivos no diretório raiz, com exceção do README.md, foram criados e configurados pela Trybe.
+
+## Concepts, Tools and Languages
+
+- Object Oriented Programming (OOP)
+- Encapsulation
+- Inheritance
+- Polimorfism
+- Interfaces
+- Inference
+- Abstraction
+- SOLID principles
+- Typescript
+- Docker
+- Conventional commits
+
+</details>
